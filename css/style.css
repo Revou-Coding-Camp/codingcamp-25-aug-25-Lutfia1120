@@ -1,0 +1,45 @@
+.logo {
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    background-image: url('https://picsum.photos/id/16/200/300');
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+}
+.image4 {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 5px;
+    border-radius: 50%;
+}
+.image5 {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 5px;
+    border-radius: 50%;
+}
+.image6 {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 5px;
+    border-radius: 50%;
+}
+.image7 {
+    height: 200px;
+    width: 80px;
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10%;
+}
+
